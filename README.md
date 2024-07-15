@@ -39,4 +39,4 @@ No ETA for big updates also because i don't know actually if im going to be able
 --------------------------------------------------------------------------------------------------
 ## About
 -  By the way to anyone who ask's about the Ultimate-Menu script, is not entire mine, there is actually in credits every single person who i taked code from and who helped me with this.
-## Latest Ultimate Menu For YimMenu update was on: 06/07/2024
+## Latest Ultimate Menu For YimMenu update was on: 15/07/2024
